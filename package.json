@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "ts-node src/main.ts"
+  },
+  "dependencies": {
+    "jimp": "^0.22.10"
+  }
+}
